@@ -6,23 +6,23 @@ cache:
       archived: false
   latestRelease:
     apiHeaders:
-      LastModified: Sat, 30 Nov 2024 14:46:55 GMT
+      LastModified: Mon, 02 Dec 2024 02:18:38 GMT
     properties:
-      tag_name: v10.3.17
-      name: Nighty Nighty Lords
-      published_at: 2024-11-30T14:46:15.0000000+00:00
+      tag_name: v10.3.18
+      name: Happy Grotmas!
+      published_at: 2024-12-02T02:17:53.0000000+00:00
   catpkg:
     properties:
       name: wh40k-10e
       description: 'Warhammer 40,000: 10th Edition'
       battleScribeVersion: "2.03"
-      version: v10.3.17
-      lastUpdated: 2024-11-30T07:54:22.0000000+00:00
-      lastUpdateDescription: Nighty Nighty Lords
+      version: v10.3.18
+      lastUpdated: 2024-12-01T16:26:18.0000000+00:00
+      lastUpdateDescription: Happy Grotmas!
       indexUrl: https://github.com/BSData/wh40k-10e/releases/latest/download/wh40k-10e.latest.bsi
       repositoryUrl: https://github.com/BSData/wh40k-10e/releases/latest/download/wh40k-10e.catpkg.json
       repositoryGzipUrl: https://github.com/BSData/wh40k-10e/releases/latest/download/wh40k-10e.catpkg.json.gz
-      repositoryBsrUrl: https://github.com/BSData/wh40k-10e/releases/download/v10.3.17/wh40k-10e.v10.3.17.bsr
+      repositoryBsrUrl: https://github.com/BSData/wh40k-10e/releases/download/v10.3.18/wh40k-10e.v10.3.18.bsr
       githubUrl: https://github.com/BSData/wh40k-10e
       feedUrl: https://github.com/BSData/wh40k-10e/releases.atom
       bugTrackerUrl: https://github.com/BSData/wh40k-10e/issues
