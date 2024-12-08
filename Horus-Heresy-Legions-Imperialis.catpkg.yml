@@ -6,23 +6,23 @@ cache:
       archived: false
   latestRelease:
     apiHeaders:
-      LastModified: Wed, 06 Nov 2024 12:39:46 GMT
+      LastModified: Sun, 08 Dec 2024 15:30:52 GMT
     properties:
-      tag_name: v1.2.9
-      name: Tarantulas riding Rhinos should be a thing
-      published_at: 2024-11-06T12:39:14.0000000+00:00
+      tag_name: v1.2.10
+      name: Dark Mechanicum book + various bug fixes
+      published_at: 2024-12-08T15:30:32.0000000+00:00
   catpkg:
     properties:
       name: Horus-Heresy-Legions-Imperialis
       description: 'Horus Heresy: Legions Imperialis'
       battleScribeVersion: "2.03"
-      version: v1.2.9
-      lastUpdated: 2024-11-06T12:37:38.0000000+00:00
-      lastUpdateDescription: Tarantulas riding Rhinos should be a thing
+      version: v1.2.10
+      lastUpdated: 2024-12-08T15:29:06.0000000+00:00
+      lastUpdateDescription: Dark Mechanicum book + various bug fixes
       indexUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/latest/download/Horus-Heresy-Legions-Imperialis.latest.bsi
       repositoryUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/latest/download/Horus-Heresy-Legions-Imperialis.catpkg.json
       repositoryGzipUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/latest/download/Horus-Heresy-Legions-Imperialis.catpkg.json.gz
-      repositoryBsrUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/download/v1.2.9/Horus-Heresy-Legions-Imperialis.v1.2.9.bsr
+      repositoryBsrUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/download/v1.2.10/Horus-Heresy-Legions-Imperialis.v1.2.10.bsr
       githubUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis
       feedUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases.atom
       bugTrackerUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/issues
