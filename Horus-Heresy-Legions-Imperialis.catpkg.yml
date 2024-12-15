@@ -6,23 +6,23 @@ cache:
       archived: false
   latestRelease:
     apiHeaders:
-      LastModified: Sat, 14 Dec 2024 13:34:41 GMT
+      LastModified: Sat, 14 Dec 2024 23:10:48 GMT
     properties:
-      tag_name: v1.2.11
-      name: Thanatar upgrades
-      published_at: 2024-12-14T13:33:19.0000000+00:00
+      tag_name: v1.2.12
+      name: More thanatar upgrades fixes
+      published_at: 2024-12-14T23:10:12.0000000+00:00
   catpkg:
     properties:
       name: Horus-Heresy-Legions-Imperialis
       description: 'Horus Heresy: Legions Imperialis'
       battleScribeVersion: "2.03"
-      version: v1.2.11
-      lastUpdated: 2024-12-14T13:32:24.0000000+00:00
-      lastUpdateDescription: Thanatar upgrades
+      version: v1.2.12
+      lastUpdated: 2024-12-14T23:05:57.0000000+00:00
+      lastUpdateDescription: More thanatar upgrades fixes
       indexUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/latest/download/Horus-Heresy-Legions-Imperialis.latest.bsi
       repositoryUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/latest/download/Horus-Heresy-Legions-Imperialis.catpkg.json
       repositoryGzipUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/latest/download/Horus-Heresy-Legions-Imperialis.catpkg.json.gz
-      repositoryBsrUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/download/v1.2.11/Horus-Heresy-Legions-Imperialis.v1.2.11.bsr
+      repositoryBsrUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases/download/v1.2.12/Horus-Heresy-Legions-Imperialis.v1.2.12.bsr
       githubUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis
       feedUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/releases.atom
       bugTrackerUrl: https://github.com/BSData/Horus-Heresy-Legions-Imperialis/issues
